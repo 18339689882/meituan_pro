@@ -16,11 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //这是同事 的代码
-    
-    //我也修改了一个代码
-    NSLog(@"haha");
-    NSLog(@"hehe");
+  
 }
 
 
